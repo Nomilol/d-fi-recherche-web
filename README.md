@@ -43,3 +43,12 @@ Source : [source](http://creativecommons.fr/)
 # Q : Qui est Grace Hopper ? : 
 
  R : Grace Hopper est une informaticienne américaine, possédant un doctorat en mathématiques, physique et économie. Elle a créé le premier compilateur en 1951 et le langage COBOL en 1959. Le mot " bug " vient d'elle et son équipe quand ils ont littéralement trouvé un insecte pris dans un relais, causant une défaillance. Elle voulait créer un langage qui se rapproche de l'anglais , d'où l'invention du langage COBOL. Elle travaille à améliorer les langages de programmation et les faire évoluer : le FORTRAN est né et le COBOL est améliorer. Elle passe la fin de sa vie à travailler comme consultante pour Digital Equipment et fait des conférences sur les débuts de l'informatique.
+
+ S : [source](https://fr.wikipedia.org/wiki/Grace_Hopper)
+
+
+ # Q : Qu est-ce que Qwant ? : 
+
+ R : Qwant est un moteur de recherche français fondé par Jean-Manuel Rozan , Patrick Constant et Eric Leandri. Qwant annonce à ses utilisateurs que son moteur de recherche ne garde pas de traces de ses utilisateurs pour garantir leur vie privée. L'innovation vient du fait que ce moteur de recherche veut regroupep plusieurs types de résultats pour une recherche. Le moteur de recherche possède une version pour le jeune public ( de 3 à 12 ans). Qwant présente une version allégée pour les ordinateurs un peu plus modestes, qui n'utilise ni CSS3 ni JS pour une faible consommation de ressources.
+
+ Source : [source](https://fr.wikipedia.org/wiki/Qwant)
