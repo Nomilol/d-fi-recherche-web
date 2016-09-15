@@ -37,4 +37,9 @@ Défi recherche Web
 
 # R : Creative Commons est une organisation à but non lucratif qui permet la diffusion plus facile d'oeuvres. Elle propose à des artistes de partager leurs droits d'auteurs, sous certaines conditions, pour qu'elles soient réutilisées sans la contrainte du copyright .
 
-# S : [source](http://creativecommons.fr/)
+# Source : [source](http://creativecommons.fr/)
+
+
+# Q : Qui est Grace Hopper ? : 
+
+# R : Grace Hopper est une informaticienne américaine, possédant un doctorat en mathématiques, physique et économie. Elle a créé le premier compilateur en 1951 et le langage COBOL en 1959. Le mot " bug " vient d'elle et son équipe quand ils ont littéralement trouvé un insecte pris dans un relais, causant une défaillance. Elle voulait créer un langage qui se rapproche de l'anglais , d'où l'invention du langage COBOL. Elle travaille à améliorer les langages de programmation et les faire évoluer : le FORTRAN est né et le COBOL est améliorer. Elle passe la fin de sa vie à travailler comme consultante pour Digital Equipment et fait des conférences sur les débuts de l'informatique.
