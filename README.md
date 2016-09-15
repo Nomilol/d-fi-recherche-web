@@ -25,9 +25,16 @@ Défi recherche Web
 [source2](http://www.culture-informatique.net/cest-quoi-un-serveur-dns/)
 
 
-# Q : Que sont le copyright et le copyleft :
+# Q : Que sont le copyright et le copyleft ? :
 
 # R : Le copyright est un licence qui protège le ou les oeuvre(s) d'un auteur pendant un temps défini. Le copyleft est à la base un jeu de mot et est le contraire du copyright : il laisse la licence de l'oeuvre libre de droit à condition que la nouvelle oeuvre créee soit elle aussi soumise au copyleft et donc libre de droit.
 
 # Source : [source1](https://www.c2i-revision.fr/complement.php?id_con=307)
 [source2](http://www.larousse.fr/dictionnaires/francais/copyright/19166)
+
+
+# Q : Que sont les Creatives Commons ?
+
+# R : Creative Commons est une organisation à but non lucratif qui permet la diffusion plus facile d'oeuvres. Elle propose à des artistes de partager leurs droits d'auteurs, sous certaines conditions, pour qu'elles soient réutilisées sans la contrainte du copyright .
+
+# S : [source](http://creativecommons.fr/)
